@@ -7,8 +7,12 @@ This protocol was conceptualized based on a systemic architecture hypothesis pro
 ## Project Structure
 
 * package.json - Project manifest and package dependencies
+* tsconfig.json - TypeScript compiler configuration settings
 * .env.example - Template for network configurations and cryptographic credentials
+* .gitignore - Asset exclusions pattern file for version control
+* cannibal-buy-burn.mjs - JavaScript migration script for deployment execution
 * src/index.ts - Core initialization script and main daemon execution loops
+* src/config.ts - Central application settings and configuration management layer
 * src/services/jupiter.ts - API client integration layer for Jupiter liquidity routers
 
 ## Installation
