@@ -2,7 +2,7 @@
 
 ![Protocol Concept Idea](https://media.discordapp.net/attachments/1446965347726135529/1504980288613388338/content.png?ex=6a08f59d&is=6a07a41d&hm=1258178b12126a236e582d1b70cab5ea0e1cb2a6d737615c7f457c5fddc61752&=&format=webp&quality=lossless&width=550&height=147)
 
-Cannibal CLI scripts for buying a token with SOL and burning the received tokens.
+Cannibalistic Solana buy-and-burn CLI that swaps SOL for a target token through Jupiter, then burns the received tokens. Supports atomic and fallback execution modes.
 
 Your private key stays on your machine.
 
